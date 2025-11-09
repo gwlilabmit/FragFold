@@ -1,17 +1,18 @@
 # Fragment binding prediction with ColabFold
 
-Note: this repo has moved from its original location [https://github.com/swanss/FragFold](https://github.com/swanss/FragFold)
+> Note: this repo has moved from its original location [https://github.com/swanss/FragFold](https://github.com/swanss/FragFold)
 
-Scripts for predicting how short fragments of natural proteins bind to full-length proteins, as described in the [manuscript](https://www.biorxiv.org/content/10.1101/2023.12.19.572389v2). This program is built on top of MMseqs2 and ColabFold, extending them to efficiently predict interactions between a full-length protein and fragments derived from a protein.
+Scripts for predicting how short fragments of natural proteins bind to full-length proteins, as described in the [manuscript](https://www.pnas.org/doi/10.1073/pnas.2322412122). This program is built on top of MMseqs2 and ColabFold, extending them to efficiently predict interactions between a full-length protein and fragments derived from a protein.
 
 This code is associated with the following article:
-A. Savinov, S. Swanson, A. E. Keating, G.-W. Li. High-throughput computational discovery of inhibitory protein fragments with AlphaFold. bioRxiv (2023). doi: 10.1101/2023.12.19.572389. https://www.biorxiv.org/content/10.1101/2023.12.19.572389v2
+A. Savinov, S. Swanson, A. E. Keating, G.-W. Li. High-throughput discovery of inhibitory protein fragments with AlphaFold. *Proceedings of the National Academy of Sciences* **122**(6), e2322412122 (2025). doi: 10.1073/pnas.2322412122
 
 Please cite this article if you make use of FragFold.
 
 Associated Source Data can also be found here: 
 https://figshare.com/articles/dataset/Source_Data_for_Savinov_and_Swanson_et_al_2023/24841269  
 doi: 10.6084/m9.figshare.24841269
+
 
 # Installing FragFold
 
