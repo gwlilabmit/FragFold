@@ -1,5 +1,7 @@
 # Fragment binding prediction with ColabFold
 
+Note: this repo has moved from its original location [https://github.com/swanss/FragFold](https://github.com/swanss/FragFold)
+
 Scripts for predicting how short fragments of natural proteins bind to full-length proteins, as described in the [manuscript](https://www.biorxiv.org/content/10.1101/2023.12.19.572389v2). This program is built on top of MMseqs2 and ColabFold, extending them to efficiently predict interactions between a full-length protein and fragments derived from a protein.
 
 This code is associated with the following article:
